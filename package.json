@@ -1,0 +1,24 @@
+{
+  "name": "ha-proxy",
+  "version": "1.0.0",
+  "description": "ha proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakraj5/ha-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakraj5/ha-proxy/issues"
+  },
+  "homepage": "https://github.com/deepakraj5/ha-proxy#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
